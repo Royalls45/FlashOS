@@ -1,0 +1,11 @@
+{
+  "Scan": {
+    "SearchRecursively": true,
+    "FileExtensions": [".iso", ".dat"],
+    "SpecialFiles": ["persistence.bat", "ventoy.json"]
+  },
+  "Virtualization": {
+    "Enabled": false,
+    "Engine": "QEMU"
+  }
+}
